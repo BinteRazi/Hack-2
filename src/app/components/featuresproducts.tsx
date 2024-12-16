@@ -20,7 +20,7 @@ const FeaturedProducts = () => {
             originalPrice: "$30",
           },
           { image: "/images/Image-3.png", name: "Library Stool Chair", price: "$20" },
-          { image: "/images/Image-4.png", name: "Library Stool Chair", price: "$25" },
+          { image: "/images/Image-4.png", name: "Library Stool Chair", price: "$20" },
         ].map((product, index) => (
           <div
             key={index}
