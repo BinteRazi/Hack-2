@@ -68,7 +68,7 @@ import Navbar from "../components/navbar";
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt est enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </p>
           <button
-            className="flex items-center justify-center bg-[#007580] text-white w-[212px] h-[63px] rounded-lg px-12 py-6 p-12 ml-16  hover:bg-blue-700 gap-2"
+            className="flex items-center justify-center bg-[#007580] text-white w-[212px] h-[63px] rounded-lg px-12 py-6 p-12 ml-12  hover:bg-blue-700 gap-2"
             style={{ position: 'absolute', top: '624px', left: '700px' }}
           >
             <Image
@@ -77,7 +77,7 @@ import Navbar from "../components/navbar";
               width={24}
               height={24}
             />
-            Add to Cart
+            AddtoCart
           </button>
         </div>
       </div>
