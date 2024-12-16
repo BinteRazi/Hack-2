@@ -20,7 +20,7 @@ const Products = () => {
         {/* Left Image */}
         <div className="relative w-full md:w-1/2 h-96">
           <Image
-            src="/images/image-3.png"
+            src="/images/Image-3.png"
             alt="Large Featured"
             layout="fill"
             objectFit="cover"
@@ -44,7 +44,7 @@ const Products = () => {
         <div className="w-full md:w-1/2 grid grid-cols-2 gap-4">
           <div className="relative h-44">
             <Image
-              src="/images/image-4.png"
+              src="/images/Image-4.png"
               alt="Small Image 1"
               layout="fill"
               objectFit="cover"
@@ -53,7 +53,7 @@ const Products = () => {
           </div>
           <div className="relative h-44">
             <Image
-              src="/images/image-1.png"
+              src="/images/Image-1.png"
               alt="Small Image 2"
               layout="fill"
               objectFit="cover"
@@ -62,7 +62,7 @@ const Products = () => {
           </div>
           <div className="relative h-44">
             <Image
-              src="/images/image-8.png"
+              src="/images/Image-8.png"
               alt="Small Image 3"
               layout="fill"
               objectFit="cover"
@@ -71,7 +71,7 @@ const Products = () => {
           </div>
           <div className="relative h-44">
             <Image
-              src="/images/image-1.png"
+              src="/images/Image-1.png"
               alt="Small Image 4"
               layout="fill"
               objectFit="cover"
