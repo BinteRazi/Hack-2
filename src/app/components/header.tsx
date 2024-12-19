@@ -7,7 +7,7 @@ export default function Header() {
       {/* Left Section */}
       <div className="flex items-center gap-2 text-[8px] sm:text-[10px]">
         <Image
-          src="/images/check.png"
+          src="/icons/check.png"
           alt="Check Icon"
           width={16}
           height={14}
