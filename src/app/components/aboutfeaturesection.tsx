@@ -15,7 +15,7 @@ const FeaturesSection = () => {
         >
           <div className="absolute top-4 left-4 w-8 h-8">
             <img
-              src="/icons/delivery.png"
+              src="/icons/Delivery.png"
               alt="Delivery Icon"
               width={32}
               height={32}
